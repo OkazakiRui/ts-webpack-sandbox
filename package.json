@@ -1,0 +1,8 @@
+{
+  "name": "originalVirtualDOM",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OkazakiRui/originalVirtualDOM.git",
+  "author": "RuiOkazaki <okazaki200226@gmail.com>",
+  "license": "MIT"
+}
